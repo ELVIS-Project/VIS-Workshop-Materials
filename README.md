@@ -1,1 +1,3 @@
-# VIS-Workshop-Scores
+# VIS-Workshop-Materials
+- Mini Corpus: Scores
+- Jupyter Notebooks
